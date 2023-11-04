@@ -15,6 +15,10 @@ def handman(life):
     if life == 5:
         print("O")
     elif life == 4:
+        '''
+         O
+        /
+        '''
         print(" O ")
         print("/")
     elif life == 3:
